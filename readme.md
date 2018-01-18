@@ -5,7 +5,7 @@
 
 PimpMyGeek is my most recent project, which is based on [Free_Ads](https://github.com/Peechaya/Piscine_MVC_Free_Ads).
 
-*This project will be written in French since it will be in French at first.*
+*This project will be written in French since it will be a French website at first.*
 
 PimpMyGeek est votre site de petites annonces spécialisée pour toutes les formes de geek : Informatique, Comics, Mangas, Jeu Vidéos...
 
