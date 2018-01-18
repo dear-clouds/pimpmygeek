@@ -7,9 +7,9 @@ PimpMyGeek is my most recent project, which is based on [Free_Ads](https://githu
 
 *This project will be written in French since it will be a French website at first.*
 
-PimpMyGeek est votre site de petites annonces spécialisée pour toutes les formes de geek : Informatique, Comics, Mangas, Jeu Vidéos...
-
 ---------- 
+
+PimpMyGeek est votre site de petites annonces spécialisée pour toutes les formes de geek : Informatique, Comics, Mangas, Jeu Vidéos...
 
 Informatique : Revendez vos composants, périphériques, matériaux et triez-les grâce à nos catégories étendues et nos tags.
 Comics : Revendez vos comics et triez-les grâce à nos catégories étendues et nos tags.
