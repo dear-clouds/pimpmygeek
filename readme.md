@@ -11,7 +11,7 @@ PimpMyGeek is my most recent project, which is based on [Free_Ads](https://githu
 
 PimpMyGeek est votre site de petites annonces spécialisée pour toutes les formes de geek : Informatique, Comics, Mangas, Jeu Vidéos...
 
-Informatique : Revendez vos composants, périphériques, matériaux et triez-les grâce à nos catégories étendues et nos tags.
-Comics : Revendez vos comics et triez-les grâce à nos catégories étendues et nos tags.
-Mangas : Revendez vos mangas et triez-les grâce à nos catégories étendues et nos tags.
-Jeu vidéos : Revendez vos jeux et triez-les grâce à nos catégories étendues et nos tags.
+- Informatique : Revendez vos composants, périphériques, matériaux et triez-les grâce à nos catégories étendues et nos tags.
+- Comics : Revendez vos comics et triez-les grâce à nos catégories étendues et nos tags.
+- Mangas : Revendez vos mangas et triez-les grâce à nos catégories étendues et nos tags.
+- Jeu vidéos : Revendez vos jeux et triez-les grâce à nos catégories étendues et nos tags.
